@@ -1,0 +1,43 @@
+
+a {
+    text-decoration: none;
+}
+
+nav div {
+ align-items: center;
+
+ float:left;
+ font: 13px helvetica bold;
+ font-weight: 600;
+ height: 40px;
+}
+.iletisim:hover {
+border-bottom: 3px solid red;
+}
+.iletisim {
+    margin: 5px 0 0 10px;
+}
+.telefonno {
+    margin: 0 0 0 900px;
+}
+.telefonno:hover{
+    border-bottom: 3px solid red;
+}
+.bayiportal:hover {
+    border-bottom: 3px solid red;
+}
+.arama:hover {
+    border-bottom: 3px solid red;
+}
+.header {
+    float:left;
+    width: 1350px;
+    height: 60px;
+    border-top: 1px solid gray;
+    margin: 3px 0 0 0;
+}
+.header li {
+    align-items: center;
+    display:flex;
+    float:left;
+}
